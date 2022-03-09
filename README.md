@@ -1,9 +1,9 @@
-👋 Hi, I’m @lucanotluka, also know as Luca
-🌱 I’m currently learning Python & C
+;) I’m @lucanotluka, also know as Luca; I know how to program in C & C++   
+🌱 I’m currently learning Python 
 
-;) I hope I'll share soon many interesting projects to you all!
+I hope I'll share to you all my inspirations, turned into code. :)
 
-    printf("Hello world!\n");
+    printf("Hello, new world!\n");
 
 <!---
 - 👀 I’m interested in ...
