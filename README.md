@@ -1,12 +1,16 @@
-;) I’m @lucanotluka, also know as Luca; I know how to program in C & C++   
-🌱 I’m currently learning Python 
+This is the GitHub of Luca (not Luka)!
 
-I hope I'll share to you all my inspirations, turned into code. :)
+    > Computer Science freshman @ PoliMi
+    > I program in C and C++
+    > I’m learning Python and Git
+    > Super interested in Cryptography, A.I. and Music (!?)
+   
+   
+I hope someday you'll see all my inspirations, turned into code. 
 
-    printf("Hello, new world!\n");
 
 <!---
-- 👀 I’m interested in ...
+- I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
