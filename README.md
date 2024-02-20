@@ -1,9 +1,9 @@
 This is the GitHub of Luca (not Luka)!
 
     > Computer Science freshman @ PoliMi
-    > I write code in C, C++, Go, Python
+    > I write code in C, C++, Go, Python, Java
     > I’m learning Java and many things that a SysAdmin does :]
-    > Super interested in Cryptography, A.I. and Music (!?)
+    > Super interested in Cryptography, A.I. applied in Music & Arts (!?)
    
    
 Someday you'll see all my inspirations, turned into code. 
