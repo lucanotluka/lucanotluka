@@ -1,9 +1,9 @@
 This is the GitHub of Luca (not Luka)!
 
-    > Computer Science freshman @ PoliMi
-    > I write code in C, C++, Go, Python, Java
-    > I’m learning Java and many things that a SysAdmin does :]
+    > Computer Science BSc postgraduate @ PoliMi
+    > I write code in C, C++, Go, Python, Java, HTML5 and JavaScript
     > Super interested in A.I. applied in Music & Arts (!?)
+    > 📫 How to reach me: luca.gritti02@gmail.com
    
    
 Someday you'll see all my inspirations, turned into code. 
