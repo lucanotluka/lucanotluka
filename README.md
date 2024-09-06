@@ -1,8 +1,8 @@
 This is the GitHub of Luca (not Luka)!
 
     > Computer Science BSc postgraduate @ PoliMi
-    > I've expertise in Software Engineering, Artificial Intelligence, FPGA programming
-    > I write code in C, C++, Go, Python, Java, HTML5 and JavaScript
+    > I've expertise in Software Engineering, Artificial Intelligence, embedded programming
+    > I write code in C, C++, Go, Python, Java, HTML5 and JavaScript, SQL
     > Super interested in A.I. applied in Music & Arts (!?)
     > 📫 How to reach me: luca.gritti02@gmail.com
    
